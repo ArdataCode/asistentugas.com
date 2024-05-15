@@ -1,0 +1,641 @@
+{
+    "version": "0.4",
+    "title": "Instructors",
+    "type": "section",
+    "metadata": {
+        "template_type": "section-team",
+        "include_in_zip": "1",
+        "elementor_pro_required": "1",
+        "wp_page_template": "elementor_header_footer"
+    },
+    "content": [
+        {
+            "id": "66b25762",
+            "settings": {
+                "background_background": "classic",
+                "background_image": {
+                    "url": "https:\/\/htmldesigntemplates.com\/epathshala\/wp-content\/uploads\/sites\/3\/2021\/07\/education-PHW33SU.jpg",
+                    "id": 193,
+                    "alt": "",
+                    "source": "library"
+                },
+                "background_attachment": "fixed",
+                "background_repeat": "no-repeat",
+                "background_size": "cover",
+                "background_overlay_background": "classic",
+                "background_overlay_color": "#181D38",
+                "background_overlay_opacity": {
+                    "unit": "px",
+                    "size": 0.8,
+                    "sizes": []
+                },
+                "shape_divider_bottom": "arrow",
+                "padding": {
+                    "unit": "px",
+                    "top": "70",
+                    "right": "0",
+                    "bottom": "70",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "__globals__": {
+                    "background_overlay_color": "",
+                    "shape_divider_top_color": ""
+                },
+                "shape_divider_top_color": "#FFFFFF",
+                "shape_divider_bottom_color": "#F0FBFC"
+            },
+            "elements": [
+                {
+                    "id": "5ec8efaa",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null
+                    },
+                    "elements": [
+                        {
+                            "id": "2acec102",
+                            "settings": {
+                                "title": "OUR INSTRUCTORS",
+                                "align": "center",
+                                "title_color": "#FFFFFF",
+                                "__globals__": {
+                                    "title_color": ""
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "1a8aa766",
+            "settings": {
+                "gap": "no",
+                "padding": {
+                    "unit": "px",
+                    "top": "80",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "5d9ec2d1",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null
+                    },
+                    "elements": [
+                        {
+                            "id": "11e90c13",
+                            "settings": {
+                                "structure": "40"
+                            },
+                            "elements": [
+                                {
+                                    "id": "442fdd43",
+                                    "settings": {
+                                        "_column_size": 25,
+                                        "_inline_size": null,
+                                        "margin": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "_inline_size_tablet": 50,
+                                        "animation": "fadeInRight"
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "595b422c",
+                                            "settings": {
+                                                "team_image": {
+                                                    "url": "https:\/\/htmldesigntemplates.com\/epathshala\/wp-content\/uploads\/sites\/3\/2021\/07\/teacher-using-digital-tablet-AEJBEM9.jpg",
+                                                    "id": 369,
+                                                    "alt": "",
+                                                    "source": "library"
+                                                },
+                                                "team_title": "William Smith",
+                                                "team_subtitle": "CEO\/ Founder",
+                                                "listItems_groups": [],
+                                                "contact_groups": [],
+                                                "section_alignment": "center",
+                                                "box_border_radius": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": true
+                                                },
+                                                "icon_color": "#52565B",
+                                                "icon_hover_color": "#06BBCC",
+                                                "sasstp_title_typography_font_family": "Jost",
+                                                "sasstp_title_typography_font_weight": "600",
+                                                "subtitle_typography_font_family": "Poppins",
+                                                "subtitle_typography_font_weight": "400",
+                                                "subtitle_color": "#EE8C1C",
+                                                "sasstp_cinfo_typography_font_family": "Poppins",
+                                                "sasstp_cinfo_typography_font_weight": "400",
+                                                "__globals__": {
+                                                    "sasstp_title_typography_typography": "",
+                                                    "title_color": "",
+                                                    "subtitle_typography_typography": "",
+                                                    "subtitle_color": "",
+                                                    "cinfo_color": "",
+                                                    "sasstp_cinfo_typography_typography": "",
+                                                    "icon_color": "",
+                                                    "icon_bg": "",
+                                                    "icon_hover_color": ""
+                                                },
+                                                "title_color": "#181D38"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "prim_basic_team",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                },
+                                {
+                                    "id": "becc3a3",
+                                    "settings": {
+                                        "_column_size": 25,
+                                        "_inline_size": null,
+                                        "_inline_size_tablet": 50,
+                                        "animation": "fadeInRight"
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "6cbd787e",
+                                            "settings": {
+                                                "team_image": {
+                                                    "url": "https:\/\/htmldesigntemplates.com\/epathshala\/wp-content\/uploads\/sites\/3\/2021\/07\/young-teacher-near-chalkboard-in-school-classroom-2021-04-02-19-33-07-utc.jpg",
+                                                    "id": 370,
+                                                    "alt": "",
+                                                    "source": "library"
+                                                },
+                                                "team_title": "Nicolon Kiyl",
+                                                "team_subtitle": "Project Manager",
+                                                "listItems_groups": [],
+                                                "contact_groups": [],
+                                                "section_alignment": "center",
+                                                "box_border_radius": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": true
+                                                },
+                                                "icon_color": "#52565B",
+                                                "icon_hover_color": "#06BBCC",
+                                                "sasstp_title_typography_font_family": "Jost",
+                                                "sasstp_title_typography_font_weight": "600",
+                                                "subtitle_typography_font_family": "Poppins",
+                                                "subtitle_typography_font_weight": "400",
+                                                "subtitle_color": "#EE8C1C",
+                                                "sasstp_cinfo_typography_font_family": "Poppins",
+                                                "sasstp_cinfo_typography_font_weight": "400",
+                                                "__globals__": {
+                                                    "sasstp_title_typography_typography": "",
+                                                    "title_color": "",
+                                                    "subtitle_typography_typography": "",
+                                                    "subtitle_color": "",
+                                                    "cinfo_color": "",
+                                                    "sasstp_cinfo_typography_typography": "",
+                                                    "icon_color": "",
+                                                    "icon_bg": "",
+                                                    "icon_hover_color": ""
+                                                },
+                                                "title_color": "#181D38"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "prim_basic_team",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                },
+                                {
+                                    "id": "7b2fad2d",
+                                    "settings": {
+                                        "_column_size": 25,
+                                        "_inline_size": null,
+                                        "_inline_size_tablet": 50,
+                                        "animation": "fadeInRight"
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "3b8e1771",
+                                            "settings": {
+                                                "team_image": {
+                                                    "url": "https:\/\/htmldesigntemplates.com\/epathshala\/wp-content\/uploads\/sites\/3\/2021\/07\/male-teacher-wearing-mask-2021-05-07-00-47-12-utc.jpg",
+                                                    "id": 368,
+                                                    "alt": "",
+                                                    "source": "library"
+                                                },
+                                                "team_title": "John Melton",
+                                                "team_subtitle": "Instructor",
+                                                "listItems_groups": [],
+                                                "contact_groups": [],
+                                                "section_alignment": "center",
+                                                "box_border_radius": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": true
+                                                },
+                                                "icon_color": "#52565B",
+                                                "icon_hover_color": "#06BBCC",
+                                                "sasstp_title_typography_font_family": "Jost",
+                                                "sasstp_title_typography_font_weight": "600",
+                                                "subtitle_typography_font_family": "Poppins",
+                                                "subtitle_typography_font_weight": "400",
+                                                "subtitle_color": "#EE8C1C",
+                                                "sasstp_cinfo_typography_font_family": "Poppins",
+                                                "sasstp_cinfo_typography_font_weight": "400",
+                                                "__globals__": {
+                                                    "sasstp_title_typography_typography": "",
+                                                    "title_color": "",
+                                                    "subtitle_typography_typography": "",
+                                                    "subtitle_color": "",
+                                                    "cinfo_color": "",
+                                                    "sasstp_cinfo_typography_typography": "",
+                                                    "icon_color": "",
+                                                    "icon_bg": "",
+                                                    "icon_hover_color": ""
+                                                },
+                                                "title_color": "#181D38"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "prim_basic_team",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                },
+                                {
+                                    "id": "4e33c3a0",
+                                    "settings": {
+                                        "_column_size": 25,
+                                        "_inline_size": null,
+                                        "_inline_size_tablet": 50,
+                                        "animation": "fadeInRight"
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "36831e84",
+                                            "settings": {
+                                                "team_image": {
+                                                    "url": "https:\/\/htmldesigntemplates.com\/epathshala\/wp-content\/uploads\/sites\/3\/2021\/07\/back-to-school-reading-book-education-library-c-2021-04-07-00-22-19-utc.jpg",
+                                                    "id": 367,
+                                                    "alt": "",
+                                                    "source": "library"
+                                                },
+                                                "team_title": "Ketti Helson",
+                                                "team_subtitle": "Business Analyst",
+                                                "listItems_groups": [],
+                                                "contact_groups": [],
+                                                "section_alignment": "center",
+                                                "box_border_radius": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": true
+                                                },
+                                                "icon_color": "#52565B",
+                                                "icon_hover_color": "#06BBCC",
+                                                "sasstp_title_typography_font_family": "Jost",
+                                                "sasstp_title_typography_font_weight": "600",
+                                                "subtitle_typography_font_family": "Poppins",
+                                                "subtitle_typography_font_weight": "400",
+                                                "subtitle_color": "#EE8C1C",
+                                                "sasstp_cinfo_typography_font_family": "Poppins",
+                                                "sasstp_cinfo_typography_font_weight": "400",
+                                                "__globals__": {
+                                                    "sasstp_title_typography_typography": "",
+                                                    "title_color": "",
+                                                    "subtitle_typography_typography": "",
+                                                    "subtitle_color": "",
+                                                    "cinfo_color": "",
+                                                    "sasstp_cinfo_typography_typography": "",
+                                                    "icon_color": "",
+                                                    "icon_bg": "",
+                                                    "icon_hover_color": ""
+                                                },
+                                                "title_color": "#181D38"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "prim_basic_team",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "section"
+                        },
+                        {
+                            "id": "677701dd",
+                            "settings": {
+                                "structure": "40"
+                            },
+                            "elements": [
+                                {
+                                    "id": "5d9510d9",
+                                    "settings": {
+                                        "_column_size": 25,
+                                        "_inline_size": null,
+                                        "margin": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        },
+                                        "_inline_size_tablet": 50,
+                                        "animation": "fadeInRight"
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "7e656d72",
+                                            "settings": {
+                                                "team_image": {
+                                                    "url": "https:\/\/htmldesigntemplates.com\/epathshala\/wp-content\/uploads\/sites\/3\/2021\/07\/attractive-business-woman-24AG6Y4-copy.jpg",
+                                                    "id": 149,
+                                                    "alt": "",
+                                                    "source": "library"
+                                                },
+                                                "team_title": "William Smith",
+                                                "team_subtitle": "CEO\/ Founder",
+                                                "listItems_groups": [],
+                                                "contact_groups": [],
+                                                "section_alignment": "center",
+                                                "box_border_radius": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": true
+                                                },
+                                                "icon_color": "#52565B",
+                                                "icon_hover_color": "#06BBCC",
+                                                "sasstp_title_typography_font_family": "Jost",
+                                                "sasstp_title_typography_font_weight": "600",
+                                                "subtitle_typography_font_family": "Poppins",
+                                                "subtitle_typography_font_weight": "400",
+                                                "subtitle_color": "#EE8C1C",
+                                                "sasstp_cinfo_typography_font_family": "Poppins",
+                                                "sasstp_cinfo_typography_font_weight": "400",
+                                                "__globals__": {
+                                                    "sasstp_title_typography_typography": "",
+                                                    "title_color": "",
+                                                    "subtitle_typography_typography": "",
+                                                    "subtitle_color": "",
+                                                    "cinfo_color": "",
+                                                    "sasstp_cinfo_typography_typography": "",
+                                                    "icon_color": "",
+                                                    "icon_bg": "",
+                                                    "icon_hover_color": ""
+                                                },
+                                                "title_color": "#181D38"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "prim_basic_team",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                },
+                                {
+                                    "id": "65723061",
+                                    "settings": {
+                                        "_column_size": 25,
+                                        "_inline_size": null,
+                                        "_inline_size_tablet": 50,
+                                        "animation": "fadeInRight"
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "3fdb8d67",
+                                            "settings": {
+                                                "team_image": {
+                                                    "url": "https:\/\/htmldesigntemplates.com\/epathshala\/wp-content\/uploads\/sites\/3\/2021\/07\/portrait-of-businessman-2021-04-20-22-09-30-utc-copy.jpg",
+                                                    "id": 250,
+                                                    "alt": "",
+                                                    "source": "library"
+                                                },
+                                                "team_title": "Nicolon Kiyl",
+                                                "team_subtitle": "Project Manager",
+                                                "listItems_groups": [],
+                                                "contact_groups": [],
+                                                "section_alignment": "center",
+                                                "box_border_radius": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": true
+                                                },
+                                                "icon_color": "#52565B",
+                                                "icon_hover_color": "#06BBCC",
+                                                "sasstp_title_typography_font_family": "Jost",
+                                                "sasstp_title_typography_font_weight": "600",
+                                                "subtitle_typography_font_family": "Poppins",
+                                                "subtitle_typography_font_weight": "400",
+                                                "subtitle_color": "#EE8C1C",
+                                                "sasstp_cinfo_typography_font_family": "Poppins",
+                                                "sasstp_cinfo_typography_font_weight": "400",
+                                                "__globals__": {
+                                                    "sasstp_title_typography_typography": "",
+                                                    "title_color": "",
+                                                    "subtitle_typography_typography": "",
+                                                    "subtitle_color": "",
+                                                    "cinfo_color": "",
+                                                    "sasstp_cinfo_typography_typography": "",
+                                                    "icon_color": "",
+                                                    "icon_bg": "",
+                                                    "icon_hover_color": ""
+                                                },
+                                                "title_color": "#181D38"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "prim_basic_team",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                },
+                                {
+                                    "id": "72d9c0b8",
+                                    "settings": {
+                                        "_column_size": 25,
+                                        "_inline_size": null,
+                                        "_inline_size_tablet": 50,
+                                        "animation": "fadeInRight"
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "20a9cf62",
+                                            "settings": {
+                                                "team_image": {
+                                                    "url": "https:\/\/htmldesigntemplates.com\/epathshala\/wp-content\/uploads\/sites\/3\/2021\/07\/asian-business-woman-working-in-laptop-on-sofa-jap-GM7YU66-copy.jpg",
+                                                    "id": 248,
+                                                    "alt": "",
+                                                    "source": "library"
+                                                },
+                                                "team_title": "John Melton",
+                                                "team_subtitle": "Instructor",
+                                                "listItems_groups": [],
+                                                "contact_groups": [],
+                                                "section_alignment": "center",
+                                                "box_border_radius": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": true
+                                                },
+                                                "icon_color": "#52565B",
+                                                "icon_hover_color": "#06BBCC",
+                                                "sasstp_title_typography_font_family": "Jost",
+                                                "sasstp_title_typography_font_weight": "600",
+                                                "subtitle_typography_font_family": "Poppins",
+                                                "subtitle_typography_font_weight": "400",
+                                                "subtitle_color": "#EE8C1C",
+                                                "sasstp_cinfo_typography_font_family": "Poppins",
+                                                "sasstp_cinfo_typography_font_weight": "400",
+                                                "__globals__": {
+                                                    "sasstp_title_typography_typography": "",
+                                                    "title_color": "",
+                                                    "subtitle_typography_typography": "",
+                                                    "subtitle_color": "",
+                                                    "cinfo_color": "",
+                                                    "sasstp_cinfo_typography_typography": "",
+                                                    "icon_color": "",
+                                                    "icon_bg": "",
+                                                    "icon_hover_color": ""
+                                                },
+                                                "title_color": "#181D38"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "prim_basic_team",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                },
+                                {
+                                    "id": "fdd72cb",
+                                    "settings": {
+                                        "_column_size": 25,
+                                        "_inline_size": null,
+                                        "_inline_size_tablet": 50,
+                                        "animation": "fadeInRight"
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "3e871ce8",
+                                            "settings": {
+                                                "team_image": {
+                                                    "url": "https:\/\/htmldesigntemplates.com\/epathshala\/wp-content\/uploads\/sites\/3\/2021\/07\/stylish-man-4N6J76M.jpg",
+                                                    "id": 251,
+                                                    "alt": "",
+                                                    "source": "library"
+                                                },
+                                                "team_title": "Ketti Helson",
+                                                "team_subtitle": "Business Analyst",
+                                                "listItems_groups": [],
+                                                "contact_groups": [],
+                                                "section_alignment": "center",
+                                                "box_border_radius": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "0",
+                                                    "left": "0",
+                                                    "isLinked": true
+                                                },
+                                                "icon_color": "#52565B",
+                                                "icon_hover_color": "#06BBCC",
+                                                "sasstp_title_typography_font_family": "Jost",
+                                                "sasstp_title_typography_font_weight": "600",
+                                                "subtitle_typography_font_family": "Poppins",
+                                                "subtitle_typography_font_weight": "400",
+                                                "subtitle_color": "#EE8C1C",
+                                                "sasstp_cinfo_typography_font_family": "Poppins",
+                                                "sasstp_cinfo_typography_font_weight": "400",
+                                                "__globals__": {
+                                                    "sasstp_title_typography_typography": "",
+                                                    "title_color": "",
+                                                    "subtitle_typography_typography": "",
+                                                    "subtitle_color": "",
+                                                    "cinfo_color": "",
+                                                    "sasstp_cinfo_typography_typography": "",
+                                                    "icon_color": "",
+                                                    "icon_bg": "",
+                                                    "icon_hover_color": ""
+                                                },
+                                                "title_color": "#181D38"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "prim_basic_team",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "section"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        }
+    ]
+}

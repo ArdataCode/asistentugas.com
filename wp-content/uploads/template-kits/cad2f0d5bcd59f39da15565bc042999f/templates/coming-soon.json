@@ -1,0 +1,150 @@
+{
+    "version": "0.4",
+    "title": "Coming Soon",
+    "type": "section",
+    "metadata": {
+        "template_type": "section-countdown",
+        "include_in_zip": "1",
+        "elementor_pro_required": "1",
+        "wp_page_template": "elementor_canvas"
+    },
+    "content": [
+        {
+            "id": "55821963",
+            "settings": {
+                "height": "full",
+                "background_background": "classic",
+                "background_image": {
+                    "url": "https:\/\/htmldesigntemplates.com\/epathshala\/wp-content\/uploads\/sites\/3\/2021\/07\/education-PHW33SU.jpg",
+                    "id": 193,
+                    "alt": "",
+                    "source": "library"
+                },
+                "background_attachment": "fixed",
+                "background_repeat": "no-repeat",
+                "background_overlay_background": "classic",
+                "background_overlay_color": "#181D38",
+                "background_overlay_opacity": {
+                    "unit": "px",
+                    "size": 0.8,
+                    "sizes": []
+                },
+                "__globals__": {
+                    "background_overlay_color": ""
+                }
+            },
+            "elements": [
+                {
+                    "id": "176b9483",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null
+                    },
+                    "elements": [
+                        {
+                            "id": "bc96ef8",
+                            "settings": {
+                                "selected_icon": {
+                                    "value": "icon icon-construction",
+                                    "library": "ekiticons"
+                                },
+                                "primary_color": "#FFFFFF6B",
+                                "size": {
+                                    "unit": "px",
+                                    "size": 150,
+                                    "sizes": []
+                                },
+                                "__globals__": {
+                                    "primary_color": ""
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "icon",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "5d959b55",
+                            "settings": {
+                                "title": "Under Construction",
+                                "header_size": "h1",
+                                "align": "center",
+                                "title_color": "#F1F1F1",
+                                "__globals__": {
+                                    "title_color": "",
+                                    "typography_typography": "globals\/typography?id=primary"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "11e1a003",
+                            "settings": {
+                                "title": "Our website is under construction.\nWe will be here soon with our awesome new site, subscribe to be notified.",
+                                "header_size": "h3",
+                                "align": "center",
+                                "__globals__": {
+                                    "title_color": ""
+                                },
+                                "title_color": "#EE8C1C",
+                                "_padding": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "150",
+                                    "bottom": "0",
+                                    "left": "150",
+                                    "isLinked": false
+                                },
+                                "_padding_mobile": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": true
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "4e89dc49",
+                            "settings": {
+                                "due_date": "2022-05-27 06:04",
+                                "label_display": "inline",
+                                "label_days": "Days",
+                                "label_hours": "Hours",
+                                "label_minutes": "Minutes",
+                                "label_seconds": "Seconds",
+                                "container_width_mobile": {
+                                    "unit": "%",
+                                    "size": 100,
+                                    "sizes": []
+                                },
+                                "digits_color": "#06BBCC",
+                                "__globals__": {
+                                    "digits_typography_typography": "globals\/typography?id=6432f1c",
+                                    "label_typography_typography": "globals\/typography?id=accent",
+                                    "digits_color": ""
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "countdown",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        }
+    ]
+}

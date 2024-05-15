@@ -1,0 +1,58 @@
+# START OYE.OR.ID
+# ---------------------------
+User-agent: *
+Disallow: /search
+Disallow: /
+
+User-agent: Image
+Allow: /
+User-agent: Googlebot
+Allow: /
+User-agent: Googlebot-Image
+Allow: /
+User-agent: Googlebot-News
+Allow: /
+User-agent: Google-Speakr
+Allow: /
+User-agent: FeedFetcher-Google
+Allow: /
+User-agent: GoogleProducer
+Allow: /
+User-agent: Mediapartners-Google
+Allow: /
+User-agent: AdsBot-Google
+Allow: /
+User-agent: AdsBot-Google-Mobile
+Allow: /
+User-agent: APIs-Google
+Allow: /
+User-agent: GoogleOther
+Allow: /
+User-agent: Google-InspectionTool
+Allow: /
+User-agent: Storebot-Google
+Allow: /
+User-agent: Googlebot-Video
+Allow: /
+User-agent: Bingbot
+Allow: /
+User-agent: DuckDuckBot
+Allow: /
+User-agent: Archive.org_bot
+Allow: /
+User-agent: Baidubot
+Allow: /
+User-agent: Kakaobot
+Allow: /
+User-agent: Yahoobot
+Allow: /
+User-agent: Facebookbot
+Allow: /
+User-agent: Yandexbot
+Allow: /
+User-agent: Yeti
+Allow:/
+
+Sitemap: https://asistentugas.com/wp-sitemap.xml
+# ---------------------------
+# END OYE.OR.ID

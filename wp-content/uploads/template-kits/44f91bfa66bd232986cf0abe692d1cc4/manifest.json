@@ -1,0 +1,1185 @@
+{
+    "manifest_version": "1.0.19",
+    "title": "FinOffice - Finance and Accounting Elementor Template Kit",
+    "page_builder": "elementor",
+    "kit_version": "1.0.3",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/a.catand.us",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Block \u2013 Header",
+            "screenshot": "screenshots\/block-header.jpg",
+            "source": "templates\/block-header.json",
+            "preview_url": "https:\/\/a.catand.us\/finoffice\/template-kit\/block-header\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Block \u2013 Footer",
+            "screenshot": "screenshots\/block-footer.jpg",
+            "source": "templates\/block-footer.json",
+            "preview_url": "https:\/\/a.catand.us\/finoffice\/template-kit\/block-footer\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Block \u2013 Contact Form",
+            "screenshot": "screenshots\/block-contact-form.jpg",
+            "source": "templates\/block-contact-form.json",
+            "preview_url": "https:\/\/a.catand.us\/finoffice\/template-kit\/block-contact-form\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-contact",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Block \u2013 Subscribe Form",
+            "screenshot": "screenshots\/block-subscribe-form.jpg",
+            "source": "templates\/block-subscribe-form.json",
+            "preview_url": "https:\/\/a.catand.us\/finoffice\/template-kit\/block-subscribe-form\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-contact",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Page - Home",
+            "screenshot": "screenshots\/page-home.jpg",
+            "source": "templates\/page-home.json",
+            "preview_url": "https:\/\/a.catand.us\/finoffice\/template-kit\/page-home\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Page \u2013 About",
+            "screenshot": "screenshots\/page-about.jpg",
+            "source": "templates\/page-about.json",
+            "preview_url": "https:\/\/a.catand.us\/finoffice\/template-kit\/page-about\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Page \u2013 Services",
+            "screenshot": "screenshots\/page-services.jpg",
+            "source": "templates\/page-services.json",
+            "preview_url": "https:\/\/a.catand.us\/finoffice\/template-kit\/page-services\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Page \u2013 Industries",
+            "screenshot": "screenshots\/page-industries.jpg",
+            "source": "templates\/page-industries.json",
+            "preview_url": "https:\/\/a.catand.us\/finoffice\/template-kit\/page-industries\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Page \u2013 Clients",
+            "screenshot": "screenshots\/page-clients.jpg",
+            "source": "templates\/page-clients.json",
+            "preview_url": "https:\/\/a.catand.us\/finoffice\/template-kit\/page-clients\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Page \u2013 News",
+            "screenshot": "screenshots\/page-news.jpg",
+            "source": "templates\/page-news.json",
+            "preview_url": "https:\/\/a.catand.us\/finoffice\/template-kit\/page-news\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Page \u2013 Contact",
+            "screenshot": "screenshots\/page-contact.jpg",
+            "source": "templates\/page-contact.json",
+            "preview_url": "https:\/\/a.catand.us\/finoffice\/template-kit\/page-contact\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Page \u2013 Service Details",
+            "screenshot": "screenshots\/page-service-details.jpg",
+            "source": "templates\/page-service-details.json",
+            "preview_url": "https:\/\/a.catand.us\/finoffice\/template-kit\/page-service-details\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Page \u2013 Expert Profile",
+            "screenshot": "screenshots\/page-expert-profile.jpg",
+            "source": "templates\/page-expert-profile.json",
+            "preview_url": "https:\/\/a.catand.us\/finoffice\/template-kit\/page-expert-profile\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Page \u2013 Single Post",
+            "screenshot": "screenshots\/page-single-post.jpg",
+            "source": "templates\/page-single-post.json",
+            "preview_url": "https:\/\/a.catand.us\/finoffice\/template-kit\/page-single-post\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Page \u2013 404 Page",
+            "screenshot": "screenshots\/page-404-page.jpg",
+            "source": "templates\/page-404-page.json",
+            "preview_url": "https:\/\/a.catand.us\/finoffice\/template-kit\/page-404-page\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-404",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Page \u2013 Coming Soon",
+            "screenshot": "screenshots\/page-coming-soon.jpg",
+            "source": "templates\/page-coming-soon.json",
+            "preview_url": "https:\/\/a.catand.us\/finoffice\/template-kit\/page-coming-soon\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "landing-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Block \u2013 Value Icons",
+            "screenshot": "screenshots\/block-value-icons.jpg",
+            "source": "templates\/block-value-icons.json",
+            "preview_url": "https:\/\/a.catand.us\/finoffice\/template-kit\/block-value-icons\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Block \u2013 Services I",
+            "screenshot": "screenshots\/block-services-i.jpg",
+            "source": "templates\/block-services-i.json",
+            "preview_url": "https:\/\/a.catand.us\/finoffice\/template-kit\/block-services-i\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-services",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Block \u2013 Services II",
+            "screenshot": "screenshots\/block-services-ii.jpg",
+            "source": "templates\/block-services-ii.json",
+            "preview_url": "https:\/\/a.catand.us\/finoffice\/template-kit\/block-services-ii\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-services",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Block \u2013 Features I",
+            "screenshot": "screenshots\/block-features-i.jpg",
+            "source": "templates\/block-features-i.json",
+            "preview_url": "https:\/\/a.catand.us\/finoffice\/template-kit\/block-features-i\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-features",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Block \u2013 Features II",
+            "screenshot": "screenshots\/block-features-ii.jpg",
+            "source": "templates\/block-features-ii.json",
+            "preview_url": "https:\/\/a.catand.us\/finoffice\/template-kit\/block-features-ii\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-features",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Block \u2013 Features III",
+            "screenshot": "screenshots\/block-features-iii.jpg",
+            "source": "templates\/block-features-iii.json",
+            "preview_url": "https:\/\/a.catand.us\/finoffice\/template-kit\/block-features-iii\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-features",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Block \u2013 Statistics",
+            "screenshot": "screenshots\/block-statistics.jpg",
+            "source": "templates\/block-statistics.json",
+            "preview_url": "https:\/\/a.catand.us\/finoffice\/template-kit\/block-statistics\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-stats",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Block \u2013 FAQ",
+            "screenshot": "screenshots\/block-faq.jpg",
+            "source": "templates\/block-faq.json",
+            "preview_url": "https:\/\/a.catand.us\/finoffice\/template-kit\/block-faq\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-faq",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Block \u2013 Team Members I",
+            "screenshot": "screenshots\/block-team-members-i.jpg",
+            "source": "templates\/block-team-members-i.json",
+            "preview_url": "https:\/\/a.catand.us\/finoffice\/template-kit\/block-team-members-i\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-team",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Block \u2013 Team Members II",
+            "screenshot": "screenshots\/block-team-members-ii.jpg",
+            "source": "templates\/block-team-members-ii.json",
+            "preview_url": "https:\/\/a.catand.us\/finoffice\/template-kit\/block-team-members-ii\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-team",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Block \u2013 Page Banner",
+            "screenshot": "screenshots\/block-page-banner.jpg",
+            "source": "templates\/block-page-banner.json",
+            "preview_url": "https:\/\/a.catand.us\/finoffice\/template-kit\/block-page-banner\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Block \u2013 Mid-page Banner",
+            "screenshot": "screenshots\/block-mid-page-banner.jpg",
+            "source": "templates\/block-mid-page-banner.json",
+            "preview_url": "https:\/\/a.catand.us\/finoffice\/template-kit\/block-mid-page-banner\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-cta",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Block \u2013 Testimonials",
+            "screenshot": "screenshots\/block-testimonials.jpg",
+            "source": "templates\/block-testimonials.json",
+            "preview_url": "https:\/\/a.catand.us\/finoffice\/template-kit\/block-testimonials\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-testimonial",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Block \u2013 Map",
+            "screenshot": "screenshots\/block-map.jpg",
+            "source": "templates\/block-map.json",
+            "preview_url": "https:\/\/a.catand.us\/finoffice\/template-kit\/block-map\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-map",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Block \u2013 Contact",
+            "screenshot": "screenshots\/block-contact.jpg",
+            "source": "templates\/block-contact.json",
+            "preview_url": "https:\/\/a.catand.us\/finoffice\/template-kit\/block-contact\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-contact",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Block - Profile",
+            "screenshot": "screenshots\/block-profile.jpg",
+            "source": "templates\/block-profile.json",
+            "preview_url": "https:\/\/a.catand.us\/finoffice\/template-kit\/block-profile\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-portfolio",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Block \u2013 Countdown",
+            "screenshot": "screenshots\/block-countdown.jpg",
+            "source": "templates\/block-countdown.json",
+            "preview_url": "https:\/\/a.catand.us\/finoffice\/template-kit\/block-countdown\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-countdown",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Essential Addons for Elementor",
+            "version": "4.7.3",
+            "file": "essential-addons-for-elementor-lite\/essential_adons_elementor.php",
+            "author": "WPDeveloper"
+        },
+        {
+            "name": "Elementor Header & Footer Builder",
+            "version": "1.6.1",
+            "file": "header-footer-elementor\/header-footer-elementor.php",
+            "author": "Brainstorm Force, Nikhil Chavan"
+        },
+        {
+            "name": "MetForm",
+            "version": "1.4.10",
+            "file": "metform\/metform.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "Elementor",
+            "version": "3.2.5",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        }
+    ],
+    "images": [
+        {
+            "filename": "finoffice_logo.png",
+            "thumbnail_url": "https:\/\/a.catand.us\/finoffice\/wp-content\/uploads\/sites\/10\/2021\/04\/finoffice_logo.png",
+            "templates": [
+                {
+                    "source": "templates\/block-header.json",
+                    "name": "Block \u2013 Header"
+                },
+                {
+                    "source": "templates\/page-coming-soon.json",
+                    "name": "Page \u2013 Coming Soon"
+                }
+            ],
+            "filesize": 9279,
+            "dimensions": [
+                700,
+                200
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "close-up-shot-of-executives-are-checking-the-compa-J6D8ZBJ.jpg",
+            "thumbnail_url": "https:\/\/a.catand.us\/finoffice\/wp-content\/uploads\/sites\/10\/2021\/04\/close-up-shot-of-executives-are-checking-the-compa-J6D8ZBJ-800x471.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-home.json",
+                    "name": "Page - Home"
+                },
+                {
+                    "source": "templates\/page-about.json",
+                    "name": "Page \u2013 About"
+                },
+                {
+                    "source": "templates\/page-industries.json",
+                    "name": "Page \u2013 Industries"
+                },
+                {
+                    "source": "templates\/block-features-ii.json",
+                    "name": "Block \u2013 Features II"
+                }
+            ],
+            "filesize": 112872,
+            "dimensions": [
+                1920,
+                1131
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-J6D8ZBJ"
+        },
+        {
+            "filename": "hands-of-two-contemporary-brokers-discussing-finan-LP76AF8.jpg",
+            "thumbnail_url": "https:\/\/a.catand.us\/finoffice\/wp-content\/uploads\/sites\/10\/2021\/04\/hands-of-two-contemporary-brokers-discussing-finan-LP76AF8-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-home.json",
+                    "name": "Page - Home"
+                },
+                {
+                    "source": "templates\/page-news.json",
+                    "name": "Page \u2013 News"
+                },
+                {
+                    "source": "templates\/page-single-post.json",
+                    "name": "Page \u2013 Single Post"
+                }
+            ],
+            "filesize": 206013,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-LP76AF8"
+        },
+        {
+            "filename": "cropped-view-of-business-partners-shaking-hands-an-SUBGQMC.jpg",
+            "thumbnail_url": "https:\/\/a.catand.us\/finoffice\/wp-content\/uploads\/sites\/10\/2021\/04\/cropped-view-of-business-partners-shaking-hands-an-SUBGQMC-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-home.json",
+                    "name": "Page - Home"
+                }
+            ],
+            "filesize": 127380,
+            "dimensions": [
+                1920,
+                1281
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-SUBGQMC"
+        },
+        {
+            "filename": "group-of-business-people-working-as-team-in-office-TRCKLYU.jpg",
+            "thumbnail_url": "https:\/\/a.catand.us\/finoffice\/wp-content\/uploads\/sites\/10\/2021\/04\/group-of-business-people-working-as-team-in-office-TRCKLYU-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-home.json",
+                    "name": "Page - Home"
+                },
+                {
+                    "source": "templates\/block-mid-page-banner.json",
+                    "name": "Block \u2013 Mid-page Banner"
+                }
+            ],
+            "filesize": 152710,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-TRCKLYU"
+        },
+        {
+            "filename": "female-accountant-calculations-EYHKDAH.jpg",
+            "thumbnail_url": "https:\/\/a.catand.us\/finoffice\/wp-content\/uploads\/sites\/10\/2021\/04\/female-accountant-calculations-EYHKDAH-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-home.json",
+                    "name": "Page - Home"
+                },
+                {
+                    "source": "templates\/block-features-i.json",
+                    "name": "Block \u2013 Features I"
+                }
+            ],
+            "filesize": 280917,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-EYHKDAH"
+        },
+        {
+            "filename": "business-meeting-PHW694U.jpg",
+            "thumbnail_url": "https:\/\/a.catand.us\/finoffice\/wp-content\/uploads\/sites\/10\/2021\/04\/business-meeting-PHW694U-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-home.json",
+                    "name": "Page - Home"
+                },
+                {
+                    "source": "templates\/page-about.json",
+                    "name": "Page \u2013 About"
+                },
+                {
+                    "source": "templates\/page-services.json",
+                    "name": "Page \u2013 Services"
+                },
+                {
+                    "source": "templates\/page-clients.json",
+                    "name": "Page \u2013 Clients"
+                },
+                {
+                    "source": "templates\/page-service-details.json",
+                    "name": "Page \u2013 Service Details"
+                },
+                {
+                    "source": "templates\/page-expert-profile.json",
+                    "name": "Page \u2013 Expert Profile"
+                },
+                {
+                    "source": "templates\/block-services-i.json",
+                    "name": "Block \u2013 Services I"
+                },
+                {
+                    "source": "templates\/block-statistics.json",
+                    "name": "Block \u2013 Statistics"
+                }
+            ],
+            "filesize": 151519,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PHW694U"
+        },
+        {
+            "filename": "smiling-businessman-in-eyeglasses-sitting-on-table-V5AWVKC.jpg",
+            "thumbnail_url": "https:\/\/a.catand.us\/finoffice\/wp-content\/uploads\/sites\/10\/2021\/04\/smiling-businessman-in-eyeglasses-sitting-on-table-V5AWVKC.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-home.json",
+                    "name": "Page - Home"
+                },
+                {
+                    "source": "templates\/page-expert-profile.json",
+                    "name": "Page \u2013 Expert Profile"
+                }
+            ],
+            "filesize": 82041,
+            "dimensions": [
+                800,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-V5AWVKC"
+        },
+        {
+            "filename": "mature-couple-listening-to-agent-making-presentati-ZSFXB8N.jpg",
+            "thumbnail_url": "https:\/\/a.catand.us\/finoffice\/wp-content\/uploads\/sites\/10\/2021\/05\/mature-couple-listening-to-agent-making-presentati-ZSFXB8N-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-about.json",
+                    "name": "Page \u2013 About"
+                },
+                {
+                    "source": "templates\/page-expert-profile.json",
+                    "name": "Page \u2013 Expert Profile"
+                },
+                {
+                    "source": "templates\/block-page-banner.json",
+                    "name": "Block \u2013 Page Banner"
+                }
+            ],
+            "filesize": 213676,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-ZSFXB8N"
+        },
+        {
+            "filename": "portrait-of-a-confident-young-businesswoman-headshot-PC3W2HV.jpg",
+            "thumbnail_url": "https:\/\/a.catand.us\/finoffice\/wp-content\/uploads\/sites\/10\/2021\/05\/portrait-of-a-confident-young-businesswoman-headshot-PC3W2HV.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-about.json",
+                    "name": "Page \u2013 About"
+                },
+                {
+                    "source": "templates\/block-team-members-i.json",
+                    "name": "Block \u2013 Team Members I"
+                }
+            ],
+            "filesize": 82488,
+            "dimensions": [
+                800,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PC3W2HV"
+        },
+        {
+            "filename": "smiling-businessman-in-eyeglasses-sitting-on-table-headshot-V5AWVKC.jpg",
+            "thumbnail_url": "https:\/\/a.catand.us\/finoffice\/wp-content\/uploads\/sites\/10\/2021\/05\/smiling-businessman-in-eyeglasses-sitting-on-table-headshot-V5AWVKC.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-about.json",
+                    "name": "Page \u2013 About"
+                },
+                {
+                    "source": "templates\/block-team-members-i.json",
+                    "name": "Block \u2013 Team Members I"
+                }
+            ],
+            "filesize": 54247,
+            "dimensions": [
+                800,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-V5AWVKC"
+        },
+        {
+            "filename": "successful-female-broker-headshot-YPEHMWD.jpg",
+            "thumbnail_url": "https:\/\/a.catand.us\/finoffice\/wp-content\/uploads\/sites\/10\/2021\/05\/successful-female-broker-headshot-YPEHMWD.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-about.json",
+                    "name": "Page \u2013 About"
+                },
+                {
+                    "source": "templates\/block-team-members-i.json",
+                    "name": "Block \u2013 Team Members I"
+                }
+            ],
+            "filesize": 62224,
+            "dimensions": [
+                800,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-YPEHMWD"
+        },
+        {
+            "filename": "smiling-businesswoman-holding-folder-8PBUAH4.jpg",
+            "thumbnail_url": "https:\/\/a.catand.us\/finoffice\/wp-content\/uploads\/sites\/10\/2021\/05\/smiling-businesswoman-holding-folder-8PBUAH4.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-about.json",
+                    "name": "Page \u2013 About"
+                },
+                {
+                    "source": "templates\/page-clients.json",
+                    "name": "Page \u2013 Clients"
+                },
+                {
+                    "source": "templates\/page-expert-profile.json",
+                    "name": "Page \u2013 Expert Profile"
+                },
+                {
+                    "source": "templates\/block-statistics.json",
+                    "name": "Block \u2013 Statistics"
+                },
+                {
+                    "source": "templates\/block-profile.json",
+                    "name": "Block - Profile"
+                }
+            ],
+            "filesize": 69977,
+            "dimensions": [
+                800,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-8PBUAH4"
+        },
+        {
+            "filename": "finance-staff-are-recommending-car-loans-for-custo-L7S38R6.jpg",
+            "thumbnail_url": "https:\/\/a.catand.us\/finoffice\/wp-content\/uploads\/sites\/10\/2021\/05\/finance-staff-are-recommending-car-loans-for-custo-L7S38R6-800x495.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-services.json",
+                    "name": "Page \u2013 Services"
+                },
+                {
+                    "source": "templates\/page-service-details.json",
+                    "name": "Page \u2013 Service Details"
+                }
+            ],
+            "filesize": 144714,
+            "dimensions": [
+                1920,
+                1187
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-L7S38R6"
+        },
+        {
+            "filename": "hands-of-agent-and-mature-man-pointing-at-financia-VHK5UNT.jpg",
+            "thumbnail_url": "https:\/\/a.catand.us\/finoffice\/wp-content\/uploads\/sites\/10\/2021\/05\/hands-of-agent-and-mature-man-pointing-at-financia-VHK5UNT-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-services.json",
+                    "name": "Page \u2013 Services"
+                },
+                {
+                    "source": "templates\/page-clients.json",
+                    "name": "Page \u2013 Clients"
+                },
+                {
+                    "source": "templates\/page-contact.json",
+                    "name": "Page \u2013 Contact"
+                },
+                {
+                    "source": "templates\/page-service-details.json",
+                    "name": "Page \u2013 Service Details"
+                },
+                {
+                    "source": "templates\/block-services-i.json",
+                    "name": "Block \u2013 Services I"
+                }
+            ],
+            "filesize": 176346,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-VHK5UNT"
+        },
+        {
+            "filename": "partial-view-of-multiehtnic-business-colleagues-sh-ECC2JEH.jpg",
+            "thumbnail_url": "https:\/\/a.catand.us\/finoffice\/wp-content\/uploads\/sites\/10\/2021\/05\/partial-view-of-multiehtnic-business-colleagues-sh-ECC2JEH-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-industries.json",
+                    "name": "Page \u2013 Industries"
+                }
+            ],
+            "filesize": 236735,
+            "dimensions": [
+                1920,
+                1281
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-ECC2JEH"
+        },
+        {
+            "filename": "cheerful-doctor-talking-with-millennial-family-abo-BKUYSN5.jpg",
+            "thumbnail_url": "https:\/\/a.catand.us\/finoffice\/wp-content\/uploads\/sites\/10\/2021\/05\/cheerful-doctor-talking-with-millennial-family-abo-BKUYSN5.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-industries.json",
+                    "name": "Page \u2013 Industries"
+                },
+                {
+                    "source": "templates\/block-features-iii.json",
+                    "name": "Block \u2013 Features III"
+                }
+            ],
+            "filesize": 42490,
+            "dimensions": [
+                634,
+                400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-BKUYSN5"
+        },
+        {
+            "filename": "interior-of-workshop-in-modern-industrial-plant-X6V2AVG.jpg",
+            "thumbnail_url": "https:\/\/a.catand.us\/finoffice\/wp-content\/uploads\/sites\/10\/2021\/05\/interior-of-workshop-in-modern-industrial-plant-X6V2AVG.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-industries.json",
+                    "name": "Page \u2013 Industries"
+                },
+                {
+                    "source": "templates\/block-features-iii.json",
+                    "name": "Block \u2013 Features III"
+                }
+            ],
+            "filesize": 127874,
+            "dimensions": [
+                601,
+                400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-X6V2AVG"
+        },
+        {
+            "filename": "deep-car-tuning-disassembled-vehicle-interior-67GXW3V.jpg",
+            "thumbnail_url": "https:\/\/a.catand.us\/finoffice\/wp-content\/uploads\/sites\/10\/2021\/05\/deep-car-tuning-disassembled-vehicle-interior-67GXW3V.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-industries.json",
+                    "name": "Page \u2013 Industries"
+                },
+                {
+                    "source": "templates\/block-features-iii.json",
+                    "name": "Block \u2013 Features III"
+                }
+            ],
+            "filesize": 138710,
+            "dimensions": [
+                599,
+                400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-67GXW3V"
+        },
+        {
+            "filename": "group-of-construction-engineer-working-in-construc-GEB8CUA.jpg",
+            "thumbnail_url": "https:\/\/a.catand.us\/finoffice\/wp-content\/uploads\/sites\/10\/2021\/05\/group-of-construction-engineer-working-in-construc-GEB8CUA.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-industries.json",
+                    "name": "Page \u2013 Industries"
+                },
+                {
+                    "source": "templates\/block-features-iii.json",
+                    "name": "Block \u2013 Features III"
+                }
+            ],
+            "filesize": 49171,
+            "dimensions": [
+                645,
+                400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-GEB8CUA"
+        },
+        {
+            "filename": "estate-agent-sitting-at-table-with-laptop-and-talk-38E5QZ8.jpg",
+            "thumbnail_url": "https:\/\/a.catand.us\/finoffice\/wp-content\/uploads\/sites\/10\/2021\/05\/estate-agent-sitting-at-table-with-laptop-and-talk-38E5QZ8-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-clients.json",
+                    "name": "Page \u2013 Clients"
+                }
+            ],
+            "filesize": 189877,
+            "dimensions": [
+                1920,
+                1281
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-38E5QZ8"
+        },
+        {
+            "filename": "business-people-discuss-and-planing-for-the-new-pr-RYNGEW2.jpg",
+            "thumbnail_url": "https:\/\/a.catand.us\/finoffice\/wp-content\/uploads\/sites\/10\/2021\/05\/business-people-discuss-and-planing-for-the-new-pr-RYNGEW2-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-news.json",
+                    "name": "Page \u2013 News"
+                },
+                {
+                    "source": "templates\/page-single-post.json",
+                    "name": "Page \u2013 Single Post"
+                }
+            ],
+            "filesize": 106464,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-RYNGEW2"
+        },
+        {
+            "filename": "busy-businesswoman-working-in-office-PAESWHB.jpg",
+            "thumbnail_url": "https:\/\/a.catand.us\/finoffice\/wp-content\/uploads\/sites\/10\/2021\/05\/busy-businesswoman-working-in-office-PAESWHB-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-contact.json",
+                    "name": "Page \u2013 Contact"
+                }
+            ],
+            "filesize": 118510,
+            "dimensions": [
+                1920,
+                1281
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PAESWHB"
+        },
+        {
+            "filename": "young-accountant-with-calculator-pressing-buttons-9JYPAGM.jpg",
+            "thumbnail_url": "https:\/\/a.catand.us\/finoffice\/wp-content\/uploads\/sites\/10\/2021\/05\/young-accountant-with-calculator-pressing-buttons-9JYPAGM-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-single-post.json",
+                    "name": "Page \u2013 Single Post"
+                }
+            ],
+            "filesize": 95961,
+            "dimensions": [
+                1200,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-9JYPAGM"
+        },
+        {
+            "filename": "business-people-in-office-8CSGWBD.jpg",
+            "thumbnail_url": "https:\/\/a.catand.us\/finoffice\/wp-content\/uploads\/sites\/10\/2021\/05\/business-people-in-office-8CSGWBD-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-single-post.json",
+                    "name": "Page \u2013 Single Post"
+                }
+            ],
+            "filesize": 95132,
+            "dimensions": [
+                1200,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-8CSGWBD"
+        },
+        {
+            "filename": "elegant-accountant-KZFE3M6.jpg",
+            "thumbnail_url": "https:\/\/a.catand.us\/finoffice\/wp-content\/uploads\/sites\/10\/2021\/05\/elegant-accountant-KZFE3M6-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-single-post.json",
+                    "name": "Page \u2013 Single Post"
+                }
+            ],
+            "filesize": 103968,
+            "dimensions": [
+                1200,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-KZFE3M6"
+        },
+        {
+            "filename": "office-manager-at-work-XPK9YCD.jpg",
+            "thumbnail_url": "https:\/\/a.catand.us\/finoffice\/wp-content\/uploads\/sites\/10\/2021\/05\/office-manager-at-work-XPK9YCD-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-404-page.json",
+                    "name": "Page \u2013 404 Page"
+                }
+            ],
+            "filesize": 169215,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-XPK9YCD"
+        },
+        {
+            "filename": "accounting-PUDDQ6E.jpg",
+            "thumbnail_url": "https:\/\/a.catand.us\/finoffice\/wp-content\/uploads\/sites\/10\/2021\/05\/accounting-PUDDQ6E-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-404-page.json",
+                    "name": "Page \u2013 404 Page"
+                },
+                {
+                    "source": "templates\/page-coming-soon.json",
+                    "name": "Page \u2013 Coming Soon"
+                }
+            ],
+            "filesize": 96668,
+            "dimensions": [
+                1200,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-PUDDQ6E"
+        },
+        {
+            "filename": "discussing-financial-statistics-HBPDSY9.jpg",
+            "thumbnail_url": "https:\/\/a.catand.us\/finoffice\/wp-content\/uploads\/sites\/10\/2021\/05\/discussing-financial-statistics-HBPDSY9-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/page-coming-soon.json",
+                    "name": "Page \u2013 Coming Soon"
+                },
+                {
+                    "source": "templates\/block-countdown.json",
+                    "name": "Block \u2013 Countdown"
+                }
+            ],
+            "filesize": 108018,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-HBPDSY9"
+        }
+    ]
+}

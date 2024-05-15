@@ -1,0 +1,176 @@
+{
+    "version": "0.4",
+    "title": "Gallery",
+    "type": "section",
+    "metadata": {
+        "template_type": "section-gallery",
+        "include_in_zip": "1",
+        "elementor_pro_required": "1",
+        "wp_page_template": "elementor_header_footer"
+    },
+    "content": [
+        {
+            "id": "7808863f",
+            "settings": {
+                "background_background": "classic",
+                "background_image": {
+                    "url": "https:\/\/htmldesigntemplates.com\/epathshala\/wp-content\/uploads\/sites\/3\/2021\/07\/education-PHW33SU.jpg",
+                    "id": 193,
+                    "alt": "",
+                    "source": "library"
+                },
+                "background_attachment": "fixed",
+                "background_repeat": "no-repeat",
+                "background_size": "cover",
+                "background_overlay_background": "classic",
+                "background_overlay_color": "#181D38",
+                "background_overlay_opacity": {
+                    "unit": "px",
+                    "size": 0.8,
+                    "sizes": []
+                },
+                "shape_divider_bottom": "arrow",
+                "padding": {
+                    "unit": "px",
+                    "top": "70",
+                    "right": "0",
+                    "bottom": "70",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "__globals__": {
+                    "background_overlay_color": "",
+                    "shape_divider_top_color": ""
+                },
+                "shape_divider_top_color": "#FFFFFF",
+                "shape_divider_bottom_color": "#F0FBFC"
+            },
+            "elements": [
+                {
+                    "id": "331a8c54",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null
+                    },
+                    "elements": [
+                        {
+                            "id": "11781917",
+                            "settings": {
+                                "title": "OUR GALLERY",
+                                "align": "center",
+                                "title_color": "#FFFFFF",
+                                "__globals__": {
+                                    "title_color": ""
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "7c81daf7",
+            "settings": {
+                "padding": {
+                    "unit": "px",
+                    "top": "80",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "597bfda4",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null
+                    },
+                    "elements": [
+                        {
+                            "id": "27f87f2a",
+                            "settings": {
+                                "gallery": [
+                                    {
+                                        "id": 472,
+                                        "url": "https:\/\/htmldesigntemplates.com\/epathshala\/wp-content\/uploads\/sites\/3\/2021\/08\/education-2021-04-05-01-20-11-utc.jpg"
+                                    },
+                                    {
+                                        "id": 473,
+                                        "url": "https:\/\/htmldesigntemplates.com\/epathshala\/wp-content\/uploads\/sites\/3\/2021\/07\/education-F32W3ZT.jpg"
+                                    },
+                                    {
+                                        "id": 499,
+                                        "url": "https:\/\/htmldesigntemplates.com\/epathshala\/wp-content\/uploads\/sites\/3\/2021\/08\/education-8345AGC.jpg"
+                                    },
+                                    {
+                                        "id": 774,
+                                        "url": "https:\/\/htmldesigntemplates.com\/epathshala\/wp-content\/uploads\/sites\/3\/2021\/08\/group-of-people-attending-education-class-in-commu-2021-05-28-22-34-30-utc.jpg"
+                                    },
+                                    {
+                                        "id": 773,
+                                        "url": "https:\/\/htmldesigntemplates.com\/epathshala\/wp-content\/uploads\/sites\/3\/2021\/08\/cloister-of-the-university-of-milan-N8MH3V3.jpg"
+                                    },
+                                    {
+                                        "id": 386,
+                                        "url": "https:\/\/htmldesigntemplates.com\/epathshala\/wp-content\/uploads\/sites\/3\/2021\/07\/education-students-people-knowledge-concept-2021-04-02-19-49-59-utc.jpg"
+                                    },
+                                    {
+                                        "id": 390,
+                                        "url": "https:\/\/htmldesigntemplates.com\/epathshala\/wp-content\/uploads\/sites\/3\/2021\/07\/education-students-people-knowledge-concept-PGGPVWJ.jpg"
+                                    },
+                                    {
+                                        "id": 392,
+                                        "url": "https:\/\/htmldesigntemplates.com\/epathshala\/wp-content\/uploads\/sites\/3\/2021\/07\/education-C6PKGFN.jpg"
+                                    },
+                                    {
+                                        "id": 393,
+                                        "url": "https:\/\/htmldesigntemplates.com\/epathshala\/wp-content\/uploads\/sites\/3\/2021\/07\/girl-doing-homework-or-online-education-2021-04-05-10-57-55-utc-1.jpg"
+                                    },
+                                    {
+                                        "id": 195,
+                                        "url": "https:\/\/htmldesigntemplates.com\/epathshala\/wp-content\/uploads\/sites\/3\/2021\/07\/girl-doing-homework-or-online-education-2021-04-05-10-57-55-utc.jpg"
+                                    },
+                                    {
+                                        "id": 207,
+                                        "url": "https:\/\/htmldesigntemplates.com\/epathshala\/wp-content\/uploads\/sites\/3\/2021\/07\/education-2021-04-04-14-25-07-utc.jpg"
+                                    },
+                                    {
+                                        "id": 206,
+                                        "url": "https:\/\/htmldesigntemplates.com\/epathshala\/wp-content\/uploads\/sites\/3\/2021\/07\/cycling-to-university-2021-04-06-19-12-23-utc.jpg"
+                                    }
+                                ],
+                                "galleries": [
+                                    {
+                                        "gallery_title": "New Gallery",
+                                        "_id": "007034b"
+                                    }
+                                ],
+                                "gallery_layout": "masonry",
+                                "thumbnail_image_size": "full",
+                                "show_all_galleries_label": "All"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "gallery",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        }
+    ]
+}

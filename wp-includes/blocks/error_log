@@ -1,0 +1,4 @@
+[13-May-2024 06:41:48 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /home/websit19/asistentugas.com/wp-includes/blocks/index.php:8
+Stack trace:
+#0 {main}
+  thrown in /home/websit19/asistentugas.com/wp-includes/blocks/index.php on line 8
